@@ -30,9 +30,4 @@ function sayHiToGrandma(string) {
     else{
       var mixedCase = 'I love you, too.';
       return(mixedCase);
-    }
-
-    }
-  }
-
-}
+    } }
